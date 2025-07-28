@@ -8,9 +8,9 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <img 
-              src="/lovable-uploads/13f2c9c5-ad53-4e17-aa31-e262ca8a0d65.png" 
+              src="/lovable-uploads/e6110a51-c0cb-428b-8a94-f3748f606264.png" 
               alt="Enricon Dynamics" 
-              className="h-8 w-auto mb-4 brightness-0 invert"
+              className="h-10 w-auto mb-4 brightness-0 invert"
             />
             <p className="text-gray-300 text-sm leading-relaxed">
               Where Precision Meets Purpose

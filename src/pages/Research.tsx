@@ -33,9 +33,9 @@ const Research = () => {
           <div className="text-center">
             <div className="mb-8">
               <img 
-                src="/lovable-uploads/a9d201c5-170d-4709-a7ba-f62ec40e7b30.png" 
+                src="/lovable-uploads/75970f96-5b74-454b-b68b-424515db302e.png" 
                 alt="Enricon Research Labs" 
-                className="h-16 w-auto mx-auto mb-6 brightness-0 invert"
+                className="h-20 w-auto mx-auto mb-6"
               />
             </div>
             <h1 className="text-4xl lg:text-5xl font-bold mb-6">

@@ -23,9 +23,9 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/13f2c9c5-ad53-4e17-aa31-e262ca8a0d65.png" 
+              src="/lovable-uploads/e6110a51-c0cb-428b-8a94-f3748f606264.png" 
               alt="Enricon Dynamics" 
-              className="h-8 w-auto"
+              className="h-10 w-auto"
             />
           </Link>
 

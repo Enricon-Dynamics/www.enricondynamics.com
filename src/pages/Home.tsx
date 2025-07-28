@@ -53,9 +53,9 @@ const Home = () => {
           <div className="text-center">
             <div className="mb-8">
               <img 
-                src="/lovable-uploads/13f2c9c5-ad53-4e17-aa31-e262ca8a0d65.png" 
+                src="/lovable-uploads/e6110a51-c0cb-428b-8a94-f3748f606264.png" 
                 alt="Enricon Dynamics" 
-                className="h-16 w-auto mx-auto mb-6"
+                className="h-20 w-auto mx-auto mb-6"
               />
             </div>
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-6">
