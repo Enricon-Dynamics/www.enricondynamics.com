@@ -55,7 +55,7 @@ const Home = () => {
               <img 
                 src="/lovable-uploads/e6110a51-c0cb-428b-8a94-f3748f606264.png" 
                 alt="Enricon Dynamics" 
-                className="h-20 w-auto mx-auto mb-6"
+                className="h-28 w-auto mx-auto mb-6"
               />
             </div>
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-6">

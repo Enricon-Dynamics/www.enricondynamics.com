@@ -25,7 +25,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/e6110a51-c0cb-428b-8a94-f3748f606264.png" 
               alt="Enricon Dynamics" 
-              className="h-10 w-auto"
+              className="h-14 w-auto"
             />
           </Link>
 
