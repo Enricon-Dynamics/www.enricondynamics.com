@@ -58,10 +58,10 @@ const Home = () => {
                 className="h-28 w-auto mx-auto mb-6"
               />
             </div>
-            <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-6">
-              Where Precision <span className="text-primary">Meets Purpose</span>
+            <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 drop-shadow-lg">
+              Where Precision <span className="text-enricon-teal">Meets Purpose</span>
             </h1>
-            <p className="text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
+            <p className="text-xl text-white/90 mb-8 max-w-3xl mx-auto drop-shadow-md">
               Premier manufacturer of high-precision automotive gauges and fixtures, 
               proudly based in Pune, Maharashtra — India's thriving hub of industrial innovation.
             </p>
