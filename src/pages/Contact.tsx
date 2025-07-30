@@ -173,34 +173,53 @@ const Contact = () => {
         </div>
       </section>
 
-      {/* Map Section */}
+      {/* Founder/CEO Section */}
       <section className="py-20 bg-gradient-subtle">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-foreground mb-4">
-              Visit Our Facility
+              Meet Our <span className="text-primary">Founder & CEO</span>
             </h2>
             <p className="text-lg text-muted-foreground">
-              Located in the heart of Pune's industrial hub
+              Leadership driving innovation in precision manufacturing
             </p>
           </div>
           
-          <div className="bg-card rounded-lg shadow-card overflow-hidden">
-            {/* Placeholder for Google Maps */}
-            <div className="h-96 bg-gradient-to-br from-muted to-secondary flex items-center justify-center">
-              <div className="text-center">
-                <MapPin className="h-16 w-16 text-primary mx-auto mb-4" />
-                <h3 className="text-xl font-semibold text-foreground mb-2">
-                  Pandurang Industrial Estate
+          <div className="max-w-2xl mx-auto">
+            <Card className="shadow-elegant">
+              <CardContent className="p-8 text-center">
+                <div className="w-24 h-24 bg-primary/10 rounded-full flex items-center justify-center mx-auto mb-6">
+                  <span className="text-3xl font-bold text-primary">SV</span>
+                </div>
+                <h3 className="text-2xl font-bold text-foreground mb-2">
+                  Stanley Roy Varghese
                 </h3>
-                <p className="text-muted-foreground">
-                  Bhosari, Pune, Maharashtra, India
+                <p className="text-lg text-primary mb-6 font-medium">
+                  Founder & CEO
                 </p>
-                <p className="text-sm text-muted-foreground mt-2">
-                  Interactive map integration available
-                </p>
-              </div>
-            </div>
+                
+                <div className="space-y-4">
+                  <div className="flex items-center justify-center space-x-3">
+                    <Phone className="h-5 w-5 text-primary" />
+                    <a 
+                      href="tel:+919096599711" 
+                      className="text-foreground hover:text-primary transition-colors"
+                    >
+                      +91 9096599711
+                    </a>
+                  </div>
+                  <div className="flex items-center justify-center space-x-3">
+                    <Mail className="h-5 w-5 text-primary" />
+                    <a 
+                      href="mailto:varghesestanley1@gmail.com" 
+                      className="text-foreground hover:text-primary transition-colors"
+                    >
+                      varghesestanley1@gmail.com
+                    </a>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
           </div>
         </div>
       </section>
